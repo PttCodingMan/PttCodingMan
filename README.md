@@ -1,8 +1,8 @@
 
-<img width="650px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
+<img width="500px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 ### Hi there 👋
-### I am CodingMan. Bug maker.
+### I am CodingMan. Bug maker. A back-end engineer is changing to QA.
 
 - 🔭 I’m currently working on [PyPtt](https://github.com/PttCodingMan/PyPtt), [PTT official app](https://github.com/PttCodingMan/ptt_official_app_wanted) and uPtt
 - 👯 I’m looking for a new partner of Ptt official app, please refer this link https://github.com/PttCodingMan/ptt_official_app_wanted
