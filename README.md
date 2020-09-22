@@ -16,4 +16,3 @@ If you want to contact privately - telegram: [![chatroom icon](https://patrolavi
 If you want to follow my shitpost - Twitter: [@CodingMan9](https://twitter.com/CodingMan9)  
 
 ![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&show_icons=true&hide_border=true)  
-![](https://visitor-badge.glitch.me/badge?page_id=PttCodingMan/PttCodingMan)
