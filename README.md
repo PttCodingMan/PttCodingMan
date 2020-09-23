@@ -8,7 +8,8 @@
   - [PyPtt](https://github.com/PttCodingMan/PyPtt)
   - [PTT official app](https://github.com/PttCodingMan/ptt_official_app_wanted)
   - [uPtt](https://github.com/uPtt-messenger/uPtt)
-- 👯 I’m looking for a new partner of Ptt official app, please refer this link https://github.com/Ptt-official-app/ptt_official_app_wanted
+- 👯 I’m looking for a new partner of Ptt official app  
+  - https://github.com/Ptt-official-app/ptt_official_app_wanted
 
 🐵 If you...
 
