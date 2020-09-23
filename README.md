@@ -6,10 +6,11 @@
 
 - 🔭 I’m currently working on 
   - [PyPtt](https://github.com/PttCodingMan/PyPtt)
-  - [PTT official app](https://github.com/PttCodingMan/ptt_official_app_wanted)
+  - [PTT official app](https://github.com/Ptt-official-app)
   - [uPtt](https://github.com/uPtt-messenger/uPtt)
-- 👯 I’m looking for a new partner of Ptt official app  
-  - https://github.com/Ptt-official-app/ptt_official_app_wanted
+- 👯 we are looking for a new partner
+    - [PTT official app](https://github.com/Ptt-official-app)  
+      - https://github.com/Ptt-official-app/ptt_official_app_wanted
 
 🐵 If you...
 
@@ -19,4 +20,4 @@
 - want to contact privately - telegram: [@PttCodingMan](https://t.me/PttCodingMan)  
 - want to follow my shitpost - Twitter: [@CodingMan9](https://twitter.com/CodingMan9)  
 
-![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&show_icons=true&hide_border=true)  
+![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan)  
