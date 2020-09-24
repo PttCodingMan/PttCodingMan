@@ -1,6 +1,5 @@
 
-[<img width="500px" src="https://i.imgur.com/auooTAc.gif" />](https://www.facebook.com/PttCodingMan/)
-
+[![Alt Text](https://i.imgur.com/auooTAc.gif)](https://www.facebook.com/PttCodingMan/)
 
 ### I am CodingMan🐵. Bug maker. A back-end engineer is transferring to QA.
 
