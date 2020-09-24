@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PttCodingMan&theme=dark&layout=compact)](https://github.com/PttCodingMan)  
 [![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)](https://github.com/PttCodingMan)  
 
-* 🔭 I’m currently working on 
+* 🔭 I’m currently working on   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PyPtt&theme=dark)](https://github.com/PttCodingMan/PyPtt)  
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptt-official-app&repo=ptt_official_app_wanted&theme=dark)](https://github.com/Ptt-official-app/ptt_official_app_wanted)  
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uPtt-messenger&repo=uPtt&theme=dark)](https://github.com/uPtt-messenger/uPtt)  
