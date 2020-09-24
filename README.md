@@ -1,14 +1,15 @@
 
-<img width="500px" src="https://i.imgur.com/auooTAc.gif" />
+[<img width="500px" src="https://i.imgur.com/auooTAc.gif" />](https://www.facebook.com/PttCodingMan/)
+
 
 ### I am CodingMan🐵. Bug maker. A back-end engineer is transferring to QA.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PttCodingMan&theme=dark&layout=compact)  
-![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PttCodingMan&theme=dark&layout=compact)](https://github.com/PttCodingMan)  
+[![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)](https://github.com/PttCodingMan)  
 
 * 🔭 I’m currently working on 
   * [PyPtt](https://github.com/PttCodingMan/PyPtt)  
-  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PyPtt&theme=dark)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PyPtt&theme=dark)](https://github.com/PttCodingMan/PyPtt)
   * [PTT official app](https://github.com/Ptt-official-app)  
   Developing
   * [uPtt](https://github.com/uPtt-messenger/uPtt)  
