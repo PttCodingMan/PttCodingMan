@@ -11,9 +11,9 @@
   * [PyPtt](https://github.com/PttCodingMan/PyPtt)  
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PyPtt&theme=dark)](https://github.com/PttCodingMan/PyPtt)
   * [PTT official app](https://github.com/Ptt-official-app)  
-  Developing
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptt-official-app&repo=ptt_official_app_wanted&theme=dark)](https://github.com/Ptt-official-app/ptt_official_app_wanted)  
   * [uPtt](https://github.com/uPtt-messenger/uPtt)  
-  Developing
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uPtt-messenger&repo=uPtt&theme=dark)](https://github.com/uPtt-messenger/uPtt)
 * 👯 we are looking for a new partner
   * [PTT official app](https://github.com/Ptt-official-app)  
     * https://github.com/Ptt-official-app/ptt_official_app_wanted
