@@ -1,5 +1,5 @@
 
-[![Alt Text](https://i.imgur.com/OMrWe1l.gif)](https://www.facebook.com/PttCodingMan/) <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='350"'>
+[![Alt Text](https://i.imgur.com/OMrWe1l.gif)](https://www.facebook.com/PttCodingMan/)
 
 ### I am CodingMan🐵. Bug maker. A back-end engineer is transferring to QA.
 
