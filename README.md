@@ -1,7 +1,8 @@
 
 [![Alt Text](https://i.imgur.com/OMrWe1l.gif)](https://www.facebook.com/PttCodingMan/)
 
-### I am CodingMan🐵. Bug maker. A back-end engineer is transferring to QA.
+# Welcome
+### Hi, I am CodingMan🐵. Bug maker. A back-end engineer is transferring to QA.
 
 [![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)](https://github.com/PttCodingMan)  
 
