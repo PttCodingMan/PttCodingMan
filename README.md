@@ -1,5 +1,6 @@
-
-<a href="https://www.facebook.com/PttCodingMan/"><img src="https://i.imgur.com/OMrWe1l.gif" alt="drawing" width="600"/></a>
+<p align="center">
+<a href="https://www.facebook.com/PttCodingMan/"><img src="https://i.imgur.com/OMrWe1l.gif" alt="drawing" width="600" style="vertical-align:middle"/></a>
+</p>
 
 # Welcome
 ### Hi, I am CodingMan🐵. Bug maker. A back-end engineer is transferring to QA.
