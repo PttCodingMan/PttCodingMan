@@ -3,7 +3,7 @@
 </p>
 
 # Welcome
-### Hi, I am CodingMan🐵. Bug maker. A back-end engineer is transferring to QA.
+### Hi, I am CodingMan🐵. Bug maker. A back-end engineer.
 
 [![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)](https://github.com/PttCodingMan)  
 
