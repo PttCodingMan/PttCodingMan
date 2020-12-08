@@ -4,6 +4,7 @@
 
 # Welcome
 ### Hi, I am CodingMan🐵. Bug maker. A back-end engineer.
+### I am looking for a new job recently. if you are interested, mail me.
 
 [![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)](https://github.com/PttCodingMan)  
 
@@ -11,10 +12,7 @@
   * [PyPtt](https://github.com/PttCodingMan/PyPtt)
   * [PTT official app](https://github.com/Ptt-official-app)
   * [uPtt](https://github.com/uPtt-messenger/uPtt)
-## 👯 we are looking for a new partner
-  * [PTT official app](https://github.com/Ptt-official-app)  
-    * https://github.com/Ptt-official-app/ptt_official_app_wanted
-
+  
 ## ☕ If you...
 * want to find my code - github: [@PttCodingMan](https://github.com/PttCodingMan)  
 * want to contact me seriously - mail: [pttcodingman@gmail.com](mailto:pttcodingman@gmail.com)  
