@@ -4,7 +4,7 @@
 
 # Welcome
 ### Hi, I am CodingMan🐵. Bug maker. A back-end engineer.
-### I am looking for a new job recently. if you are interested, mail me. [Resume](https://www.cakeresume.com/codingman-a49d06)
+### I am looking for a new job recently. If you are interested, mail me. I will send my resume.
 
 [![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)](https://github.com/PttCodingMan)  
 
