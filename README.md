@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.facebook.com/PttCodingMan/"><img src="https://i.imgur.com/OMrWe1l.gif" alt="drawing" width="600" style="vertical-align:middle"/></a>
+<a href="https://www.facebook.com/PttCodingMan/"><img src="https://i.imgur.com/OMrWe1l.gif" alt="drawing" width="500" style="vertical-align:middle"/></a>
 </p>
 
 # Welcome
