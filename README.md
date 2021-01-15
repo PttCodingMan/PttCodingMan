@@ -6,9 +6,8 @@
 ### Hi, I am CodingMan🐵. 
 ### Bug maker. Back-end engineer.
 ### Tech lead of [ServiSign](https://www.changingtec.com/servisign.html)
-### The speaker fo [COSCUP](https://coscup.org/2020/zh-TW/agenda/CFNNFA), [PyCon Taiwan](https://tw.pycon.org/2020/zh-hant/conference/talk/1124347947245371715/) and [PyData](https://pydata.org/taipei2020/program/talk-2/) in 2020.
+### The speaker of [COSCUP](https://coscup.org/2020/zh-TW/agenda/CFNNFA), [PyCon Taiwan](https://tw.pycon.org/2020/zh-hant/conference/talk/1124347947245371715/) and [PyData](https://pydata.org/taipei2020/program/talk-2/) in 2020.
 ### 500+ stars project [PyPtt](https://github.com/PttCodingMan/PyPtt) on Github.
-###
 ### I am looking for a new job recently. If you are interested, mail me. I will send my resume.
 
 ## 🔭 I’m currently working on   
