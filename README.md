@@ -9,9 +9,13 @@
 
 [![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)](https://github.com/PttCodingMan)  
   
-## ☕ If you...
+## If you...
 * want to check my code: [Github](https://github.com/PttCodingMan)  
 * want to contact me seriously: [Mail](mailto:pttcodingman@gmail.com)  
 * are interested in my work skills: [Linkedin](https://www.linkedin.com/in/codingman/)  
 * want to contact me quickly: [Telegram](https://t.me/PttCodingMan)  
 * want to follow my shitpost: [Twitter](https://twitter.com/PttCodingMan)  
+
+## Blog recent articles
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
