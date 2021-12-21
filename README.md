@@ -9,11 +9,11 @@
 
 ## My recent posts
 <!-- BLOG-POST-LIST:START -->
+- [hexo 插件推薦清單](https://pttcodingman.github.io/1b09/)
 - [如何提升網路品質](https://pttcodingman.github.io/7324/)
 - [避免 Github pages 被 Actions 覆寫 domain 設定](https://pttcodingman.github.io/5431/)
 - [歷代 Python 語法重點隨筆](https://pttcodingman.github.io/e6c7/)
 - [Minecraft 磐石伺服器架設技術剖析 使用 GCP](https://pttcodingman.github.io/e3e/)
-- [hexo 心得](https://pttcodingman.github.io/f4a9/)
 <!-- BLOG-POST-LIST:END -->
 
 ## If you...
