@@ -9,7 +9,7 @@
 
 ## My recent posts
 <!-- BLOG-POST-LIST:START -->
-- [如何提升自家網路品質](https://pttcodingman.github.io/7324/)
+- [如何提升網路品質](https://pttcodingman.github.io/7324/)
 - [避免 Github pages 被 Actions 覆寫 domain 設定](https://pttcodingman.github.io/5431/)
 - [歷代 Python 語法重點隨筆](https://pttcodingman.github.io/e6c7/)
 - [Minecraft 磐石伺服器架設技術剖析 使用 GCP](https://pttcodingman.github.io/e3e/)
