@@ -9,7 +9,7 @@
 
 ## My recent posts
 <!-- BLOG-POST-LIST:START -->
-- [Linux shell 雙引號與單引號的區別](https://pttcodingman.github.io/4b74/)
+- [Bash 雙引號與單引號的區別](https://pttcodingman.github.io/4b74/)
 - [hexo 插件推薦清單](https://pttcodingman.github.io/1b09/)
 - [如何提升網路品質](https://pttcodingman.github.io/7324/)
 - [避免 Github pages 被 Actions 覆寫 domain 設定](https://pttcodingman.github.io/5431/)
