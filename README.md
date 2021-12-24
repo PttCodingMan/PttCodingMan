@@ -9,11 +9,11 @@
 
 ## My Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [PTT 八卦板新年首新年首 PO 機器人](https://pttcodingman.github.io/77fa/)
 - [Bash 雙引號與單引號的區別](https://pttcodingman.github.io/4b74/)
 - [hexo 插件推薦清單](https://pttcodingman.github.io/1b09/)
 - [如何提升網路品質](https://pttcodingman.github.io/7324/)
 - [避免 Github pages 被 Actions 覆寫 domain 設定](https://pttcodingman.github.io/5431/)
-- [歷代 Python 語法重點隨筆](https://pttcodingman.github.io/e6c7/)
 <!-- BLOG-POST-LIST:END -->
 
 ## If You...
