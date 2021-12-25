@@ -9,7 +9,7 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [PTT 八卦板新年首新年首 PO 機器人](https://pttcodingman.github.io/77fa/)
+- [PTT 八卦板新年首 PO 機器人](https://pttcodingman.github.io/77fa/)
 - [Bash 雙引號與單引號的區別](https://pttcodingman.github.io/4b74/)
 - [hexo 插件推薦清單](https://pttcodingman.github.io/1b09/)
 - [如何提升網路品質](https://pttcodingman.github.io/7324/)
