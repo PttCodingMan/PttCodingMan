@@ -9,11 +9,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [駭客任務：復活 觀影心得](https://pttcodingman.github.io/72b1/)
-- [PTT 八卦板新年首 PO 機器人](https://pttcodingman.github.io/77fa/)
-- [Bash 雙引號與單引號的區別](https://pttcodingman.github.io/4b74/)
-- [hexo 插件推薦清單](https://pttcodingman.github.io/1b09/)
-- [如何提升網路品質](https://pttcodingman.github.io/7324/)
+- [駭客任務寫得很好的心得](https://codingman.cc/b38f/)
+- [駭客任務：復活 觀影心得](https://codingman.cc/72b1/)
+- [PTT 八卦板新年首 PO 機器人](https://codingman.cc/77fa/)
+- [Bash 雙引號與單引號的區別](https://codingman.cc/4b74/)
+- [hexo 插件推薦清單](https://codingman.cc/1b09/)
 <!-- BLOG-POST-LIST:END -->
 
 ## If you...
