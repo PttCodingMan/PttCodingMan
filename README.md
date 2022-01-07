@@ -9,11 +9,11 @@
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [追尋多年的三角棋](https://codingman.cc/d9b2/)
 - [讓 git 忽略檔案權限變更](https://codingman.cc/d55c/)
 - [Linux 超簡單壓縮與解壓縮指令筆記](https://codingman.cc/aa93/)
 - [駭客任務寫得很好的心得](https://codingman.cc/b38f/)
 - [駭客任務：復活 觀影心得](https://codingman.cc/72b1/)
-- [PTT 八卦板新年首 PO 機器人](https://codingman.cc/77fa/)
 <!-- BLOG-POST-LIST:END -->
 
 ## If you...
