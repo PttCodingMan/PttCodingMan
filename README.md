@@ -9,11 +9,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [幫 Ubuntu 加上新硬碟](https://codingman.cc/1453/)
 - [Ubuntu 藉由 LVM 解決預設硬碟分割錯誤](https://codingman.cc/a61d/)
 - [追尋多年的三角棋](https://codingman.cc/d9b2/)
 - [讓 git 忽略檔案權限變更](https://codingman.cc/d55c/)
 - [Linux 超簡單壓縮與解壓縮指令筆記](https://codingman.cc/aa93/)
-- [駭客任務寫得很好的心得](https://codingman.cc/b38f/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://codingman.cc)
 
