@@ -9,11 +9,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [non-breaking space 問題](https://codingman.cc/4273/)
 - [如何使用 GitHub Actions 同步 PDF 至 Github Pages](https://codingman.cc/4d01/)
 - [軟體工程師的我如何準備轉職](https://codingman.cc/5aa0/)
 - [幫 Ubuntu 加上新硬碟](https://codingman.cc/1453/)
 - [Ubuntu 藉由 LVM 解決預設硬碟分割錯誤](https://codingman.cc/a61d/)
-- [追尋多年的三角棋](https://codingman.cc/d9b2/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://codingman.cc)
 
