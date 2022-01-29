@@ -9,11 +9,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [HackMD - 深色模式](https://codingman.cc/hackmd-dark-mode/)
+- [跑馬燈圖片工具](https://codingman.cc/text-to-gif/)
+- [Python 如何從 list 移除空元素](https://codingman.cc/how-to-remove-empty-element-from-list-in-python/)
+- [使用 Python 解開數獨](https://codingman.cc/solve-sudoku-in-python/)
 - [non-breaking space 問題](https://codingman.cc/4273/)
-- [如何使用 GitHub Actions 同步 PDF 至 Github Pages](https://codingman.cc/4d01/)
-- [軟體工程師的我如何準備轉職](https://codingman.cc/5aa0/)
-- [幫 Ubuntu 加上新硬碟](https://codingman.cc/1453/)
-- [Ubuntu 藉由 LVM 解決預設硬碟分割錯誤](https://codingman.cc/a61d/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://codingman.cc)
 
