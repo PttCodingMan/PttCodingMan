@@ -9,7 +9,7 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HackMD - 深色模式](https://codingman.cc/hackmd-dark-mode/)
+- [HackMD - 深色主題](https://codingman.cc/hackmd-dark-theme/)
 - [跑馬燈圖片工具](https://codingman.cc/text-to-gif/)
 - [Python 如何從 list 移除空元素](https://codingman.cc/how-to-remove-empty-element-from-list-in-python/)
 - [使用 Python 解開數獨](https://codingman.cc/solve-sudoku-in-python/)
