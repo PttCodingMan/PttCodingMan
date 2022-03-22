@@ -9,11 +9,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [調整 PyCharm 檔案大小限制](https://codingman.cc/adjust-pycharm-file-size-limit/)
 - [使用 crontab 排程自動化你的工作](https://codingman.cc/automate-your-work-with-crontab/)
 - [HackMD - 深色主題](https://codingman.cc/hackmd-dark-theme/)
 - [跑馬燈圖片工具](https://codingman.cc/text-to-gif/)
 - [Python 如何從 list 移除空元素](https://codingman.cc/how-to-remove-empty-element-from-list-in-python/)
-- [使用 Python 解開數獨](https://codingman.cc/solve-sudoku-in-python/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://codingman.cc)
 
