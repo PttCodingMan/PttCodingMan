@@ -9,11 +9,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [在 iOS 新增「社交距離 app」捷徑](https://codingman.cc/Social-Distance-App-shortcut-on-iOS/)
-- [調整 PyCharm 檔案大小限制](https://codingman.cc/adjust-pycharm-file-size-limit/)
-- [使用 crontab 排程自動化你的工作](https://codingman.cc/automate-your-work-with-crontab/)
-- [HackMD - 深色主題](https://codingman.cc/hackmd-dark-theme/)
-- [跑馬燈圖片工具](https://codingman.cc/text-to-gif/)
+- [LeetCode 筆記 - 1302. Deepest Leaves Sum](https://codingman.cc/leetcode-deepest-leaves-sum/)
+- [Python 如何正確初始化二維陣列](https://codingman.cc/how-to-properly-initialize-2d-list/)
+- [LeetCode 筆記 - 844. Backspace String Compare](https://codingman.cc/leetcode-backspace-string-compare/)
+- [LeetCode 筆記 - 117. Populating Next Right Pointers in Each Node II](https://codingman.cc/leetcode-populating-next-right-pointers-in-each-node-ii/)
+- [LeetCode 筆記 - 116. Populating Next Right Pointers in Each Node](https://codingman.cc/leetcode-populating-next-right-pointers-in-each-node/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://codingman.cc)
 
