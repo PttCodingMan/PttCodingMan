@@ -16,5 +16,3 @@ jobs:
           timeout_seconds: 60
           max_attempts: 3
           feed_list: "https://codingman.cc/atom.xml"
-          item_exec: |
-               title = title.replace("LeetCode ", "");
