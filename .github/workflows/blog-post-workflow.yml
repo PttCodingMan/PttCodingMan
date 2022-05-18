@@ -15,3 +15,4 @@ jobs:
           timeout_seconds: 60
           max_attempts: 3
           feed_list: "https://codingman.cc/atom.xml"
+          custom_tags: "LeetCode"
