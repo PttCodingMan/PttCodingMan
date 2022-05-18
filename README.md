@@ -9,11 +9,7 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode 筆記 - 11. Container With Most Water](https://codingman.cc/leetcode-container-with-most-water/)
-- [LeetCode 筆記 - 189. Rotate Array](https://codingman.cc/leetcode-rotate-array/)
-- [LeetCode 筆記 - 977. Squares of a Sorted Array](https://codingman.cc/leetcode-squares-of-a-sorted-array/)
-- [LeetCode 筆記 - 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://codingman.cc/leetcode-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)
-- [LeetCode 筆記 - 419. Battleships in a Board](https://codingman.cc/leetcode-battleships-in-a-board/)
+- [Python 如何正確初始化二維陣列](https://codingman.cc/how-to-properly-initialize-2d-list/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://codingman.cc)
 
