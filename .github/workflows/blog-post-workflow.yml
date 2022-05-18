@@ -16,4 +16,5 @@ jobs:
           timeout_seconds: 60
           max_attempts: 3
           feed_list: "https://codingman.cc/atom.xml"
-          custom_tags: "Gossiping,PTT,WFH,partitioning,GCP,Linux,non-breaking space,uncompress,covid19,wifi,dark theme,hexo,Triangular Nim,git,Python,Spotify,PyCharm,社交距離app,compress,PyPtt,disk,Beautiful Soup,Sudoku,Matrix,HackMD,Github Actions,衛生福利部疾病管制署,iPhone,resume,iOS,LVM,domain,Github Pages,minecraft,Movie,network,bash,file mode,mount,Mac,gif,interview,Actions,crontab"
+          item_exec: |
+               title = title.replace("LeetCode ", "");
