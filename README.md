@@ -10,6 +10,10 @@
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Python 如何正確初始化二維陣列](https://codingman.cc/how-to-properly-initialize-2d-list/)
+- [在 iOS 新增「社交距離 app」捷徑](https://codingman.cc/Social-Distance-App-shortcut-on-iOS/)
+- [調整 PyCharm 檔案大小限制](https://codingman.cc/adjust-pycharm-file-size-limit/)
+- [使用 crontab 排程自動化你的工作](https://codingman.cc/automate-your-work-with-crontab/)
+- [HackMD - 深色主題](https://codingman.cc/hackmd-dark-theme/)
 <!-- BLOG-POST-LIST:END -->
 ➡️ [more blog posts...](https://codingman.cc)
 
