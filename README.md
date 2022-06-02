@@ -15,7 +15,8 @@
 - [Python 如何正確初始化二維陣列](https://codingman.cc/how-to-properly-initialize-2d-list/)
 - [在 iOS 新增「社交距離 app」捷徑](https://codingman.cc/Social-Distance-App-shortcut-on-iOS/)
 <!-- BLOG-POST-LIST:END -->
-➡️ [more blog posts...](https://codingman.cc)
+
+More blog posts @ [CodingMan.cc](https://codingman.cc)
 
 ### Connect with me:
 
