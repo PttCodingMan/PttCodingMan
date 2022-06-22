@@ -11,11 +11,10 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in codingman.cc posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           timeout_seconds: 60
           max_attempts: 3
           feed_list: "https://codingman.cc/atom.xml"
           custom_tags: 'tag/category/'
-          item_exec: |
-                if (customTags.tag.$.term.toLowerCase() === "leetcode") post = null;
+          item_exec: if (customTags.tag.$.term.toLowerCase() === "leetcode") post = null;
