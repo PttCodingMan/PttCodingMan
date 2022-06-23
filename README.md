@@ -20,11 +20,11 @@ More blog posts @ [CodingMan.cc](https://codingman.cc)
 
 ### Connect with me:
 
-<a href="https://codingman.cc"><img align="left" width="40px" src="https://i.imgur.com/kQaxXqy.jpg"></a>
-<a href="https://twitter.com/PttCodingMan"><img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/twitter.svg"></a>
-<a href="mailto:pttcodingman@gmail.com"><img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/gmail.svg"></a>
-<a href="https://www.linkedin.com/in/codingman/"><img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/linkedin.svg"></a>
-<a href="https://t.me/PttCodingMan"><img align="left" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/telegram.svg"></a>
+<a href="https://codingman.cc"><img align="left" width="35px" src="https://i.imgur.com/kQaxXqy.jpg"></a>
+<a href="https://twitter.com/PttCodingMan"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/twitter.svg"></a>
+<a href="mailto:pttcodingman@gmail.com"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/gmail.svg"></a>
+<a href="https://www.linkedin.com/in/codingman/"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/linkedin.svg"></a>
+<a href="https://t.me/PttCodingMan"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/telegram.svg"></a>
 
 <br />
 <br />
