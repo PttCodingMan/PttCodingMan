@@ -9,11 +9,11 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [如果你第一次來 If you are new here](https://codingman.cc/for-new-guys/)
 - [Python - How to list all the files](https://codingman.cc/python-how-to-list-all-the-files/)
 - [Mac - 如何用程式發出本機系統通知](https://codingman.cc/mac-how-to-activate-a-system-notifications/)
 - [Python 如何優雅地限制線程數量](https://codingman.cc/python-how-to-limit-the-number-of-threads/)
 - [Python 如何順利地取得上個月的月份](https://codingman.cc/python-how-to-get-last-month/)
+- [Python 如何處理存檔編碼錯誤](https://codingman.cc/python-how-to-handle-UnicodeEncodeError-exceptions/)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts @ [CodingMan.cc](https://codingman.cc)
