@@ -11,11 +11,11 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [使用 Balance Lock 解決 Mac 聲音左右不平衡的問題](https://codingman.cc/balance-Lock-macos/)
 - [面試心得 - Google](https://codingman.cc/interview-with-Google/)
 - [PyPtt - 批踢踢超貼觀測站兩三事](https://codingman.cc/pyptt-about-ptt-you-guys-post-too-many/)
 - [Python - AutoStrEnum](https://codingman.cc/python-autostrenum/)
 - [Python - How to list all the files](https://codingman.cc/python-how-to-list-all-the-files/)
-- [Mac - 如何用程式發出本機系統通知](https://codingman.cc/mac-how-to-activate-a-system-notifications/)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts: [CodingMan.cc](https://codingman.cc)  
