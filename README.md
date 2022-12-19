@@ -5,7 +5,7 @@
 ### Welcome
 * Hi, I am CodingMan🐵. A senior bug maker @ [Taiwan AI Labs](https://ailabs.tw/).
 * The speaker of [COSCUP](https://coscup.org/2020/zh-TW/agenda/CFNNFA), [PyCon Taiwan](https://tw.pycon.org/2020/zh-hant/conference/talk/1124347947245371715/) and [PyData](https://pydata.org/taipei2020/program/talk-2/) in 2020.
-* The owner of [PyPtt](https://github.com/PttCodingMan/PyPtt) project with 600+ ⭐.
+* The owner of [PyPtt](https://pyptt.cc) project with 600+ ⭐.
 
 More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projects/)
 
