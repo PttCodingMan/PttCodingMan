@@ -11,11 +11,11 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [可自架的密碼管理器 - Bitwarden](https://codingman.cc/self-hosting-password-manager-bitwarden/)
 - [Hexo - 我的部落格疑難雜症筆記](https://codingman.cc/hexo-the-problem-notes-of-my-blog/)
 - [Mac - 升級你的 Terminal](https://codingman.cc/mac-upgrade-your-terminal/)
 - [簡單易用的剪貼簿工具 - Clipy](https://codingman.cc/scrapbook-tool-clipy/)
 - [使用 Balance Lock 解決 Mac 聲音左右不平衡的問題](https://codingman.cc/balance-lock-macos/)
-- [面試心得 - Google](https://codingman.cc/interview-with-Google/)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts: [CodingMan.cc](https://codingman.cc)  
