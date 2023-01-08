@@ -11,11 +11,11 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [中華電信的新免費服務 VoLTE / VoWiFi](https://codingman.cc/Chunghwa-new-free-service-VoLTE-and-VoWiFi/)
 - [選擇你的程式碼字體 - CodingFont](https://codingman.cc/choose-your-coding-font-codingfont/)
 - [可自架的密碼管理器 - Bitwarden](https://codingman.cc/self-hosting-password-manager-bitwarden/)
 - [Hexo - 我的部落格疑難雜症筆記](https://codingman.cc/hexo-the-problem-notes-of-my-blog/)
 - [Mac - 升級你的 Terminal](https://codingman.cc/mac-upgrade-your-terminal/)
-- [簡單易用的剪貼簿工具 - Clipy](https://codingman.cc/scrapbook-tool-clipy/)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts: [CodingMan.cc](https://codingman.cc)  
