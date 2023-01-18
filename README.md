@@ -18,7 +18,7 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 - [Mac - 升級你的 Terminal](https://codingman.cc/mac-upgrade-your-terminal/)
 <!-- BLOG-POST-LIST:END -->
 
-More blog posts: [CodingMan.cc](https://codingman.cc)  
+More blog posts @ [CodingMan.cc](https://codingman.cc)  
 
 ### Connect with me:
 
@@ -27,13 +27,3 @@ More blog posts: [CodingMan.cc](https://codingman.cc)
 <a href="mailto:pttcodingman@gmail.com"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/gmail.svg"></a>
 <a href="https://www.linkedin.com/in/codingman/"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/linkedin.svg"></a>
 <a href="https://t.me/PttCodingMan"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/telegram.svg"></a>
-
-<br />
-<br />
-
-<details>
-  <summary>GitHub Stats</summary>
-
-  [![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)](https://github.com/PttCodingMan) 
-
-</details>
