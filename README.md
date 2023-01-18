@@ -20,7 +20,7 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 More blog posts @ [CodingMan.cc](https://codingman.cc)  
 
-### Connect with me:
+### My links
 
 <a href="https://codingman.cc"><img align="left" width="35px" src="https://i.imgur.com/kQaxXqy.jpg"></a>
 <a href="https://twitter.com/PttCodingMan"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/twitter.svg"></a>
