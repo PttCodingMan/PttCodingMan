@@ -14,11 +14,11 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [如何在 Mac 上安裝圍棋 AI - KataGo](https://codingman.cc/how-to-install-katago-on-mac/)
+- [面試心得 - 趨勢科技](https://codingman.cc/interview-with-TrendMicro/)
 - [如何成為一位傑出的工程師 &lpar;好文備份&rpar;](https://codingman.cc/how-to-be-a-star-engineer/)
 - [過年筆記 - 2023](https://codingman.cc/lunar-new-year-note-2023/)
 - [使用 rsync 同步你的檔案](https://codingman.cc/sync-your-files-with-rsync/)
-- [我如何打造我的部落格](https://codingman.cc/how-i-build-my-blog/)
-- [中華電信的新免費服務 VoLTE / VoWiFi](https://codingman.cc/Chunghwa-new-free-service-VoLTE-and-VoWiFi/)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts @ [CodingMan.cc](https://codingman.cc)  
