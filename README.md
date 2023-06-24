@@ -14,11 +14,11 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NLP - 如何使用 BERT 實現相關文章功能](https://codingman.cc/how-to-use-bert-to-implement-related-posts/)
 - [如何使用 One Time Password 加強 Ubuntu 伺服器 SSH 安全性](https://codingman.cc/how-to-use-one-time-password-to-secure-ubuntu-server-ssh/)
 - [如何使用 Mac 幫 Tesla 行車記錄器影片加上時間標籤](https://codingman.cc/how-to-add-timestamp-to-tesla-dashcam-video-on-mac/)
 - [如何使用 Google Analytics Data API](https://codingman.cc/how-to-use-google-analytics-data-api/)
 - [購車心得 - Tesla Model Y](https://codingman.cc/tesla-purchase-experience-model-y/)
-- [如何傳送敏感資訊 - GnuPG](https://codingman.cc/how-to-send-sensitive-information-with-gnupg/)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts @ [CodingMan.cc](https://codingman.cc)  
