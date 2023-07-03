@@ -30,3 +30,5 @@ More blog posts @ [CodingMan.cc](https://codingman.cc)
 <a href="mailto:pttcodingman@gmail.com"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/gmail.svg"></a>
 <a href="https://t.me/PttCodingMan"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/telegram.svg"></a>
 <a href="https://github.com/pttCodingMan.gpg"><img width="25px" style="display:inline; margin:12px" src="https://codingman.cc/images/gpg.png"></a>
+<a href="https://online-go.com/user/view/743363"><img align="left" width="37px" src="https://imgur.com/YgItTPw.png"></a>
+
