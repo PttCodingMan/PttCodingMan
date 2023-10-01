@@ -11,11 +11,11 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [選擇你的程式碼字體 - CodingFont](https://codingman.cc/choose-your-coding-font-codingfont/)
-- [可自架的密碼管理器 - Bitwarden](https://codingman.cc/self-hosting-password-manager-bitwarden/)
-- [Hexo - 我的部落格疑難雜症筆記](https://codingman.cc/hexo-the-problem-notes-of-my-blog/)
-- [Mac - 升級你的 Terminal](https://codingman.cc/mac-upgrade-your-terminal/)
-- [簡單易用的剪貼簿工具 - Clipy](https://codingman.cc/scrapbook-tool-clipy/)
+- [OpenAI 如何幫助我的工程師工作](https://codingman.cc/how-openai-helps-my-work)
+- [Python - 如何安裝套件](https://codingman.cc/how-to-install-python-packages)
+- [NLP - 如何使用 BERT 實現相關文章功能](https://codingman.cc/how-to-use-bert-to-implement-related-posts)
+- [如何使用 One Time Password 加強 Ubuntu 伺服器 SSH 安全性](https://codingman.cc/how-to-use-one-time-password-to-secure-ubuntu-server-ssh)
+- [如何使用 Mac 幫 Tesla 行車記錄器影片加上時間標籤](https://codingman.cc/how-to-add-timestamp-to-tesla-dashcam-video-on-mac)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts: [CodingMan.cc](https://codingman.cc)  

@@ -1,16 +1,25 @@
-name: Blog recent articles workflow
+name: update-blog-recent-articles
 on:
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the Github Actions Workflow page directly
   push:
-  
+
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+    name: Update this repo's README with recent blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Pull in codingman.cc posts
-        uses: gautamkrishnar/blog-post-workflow@1.7.3
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v3
         with:
-          feed_list: "https://codingman.cc/atom.xml"
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Update profile
+        run: |
+          python src/update.py
+      - uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
