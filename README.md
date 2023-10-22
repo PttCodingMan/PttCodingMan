@@ -14,11 +14,11 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [特斯拉 - 一萬公里心得](https://codingman.cc/tesla-10000km-review)
 - [Git - 如何變更 commit author](https://codingman.cc/how-to-change-commit-author-in-git)
 - [OpenAI 如何幫助我的工程師工作](https://codingman.cc/how-openai-helps-my-work)
 - [Python - 如何安裝套件](https://codingman.cc/how-to-install-python-packages)
 - [NLP - 如何使用 BERT 實現相關文章功能](https://codingman.cc/how-to-use-bert-to-implement-related-posts)
-- [如何使用 One Time Password 加強 Ubuntu 伺服器 SSH 安全性](https://codingman.cc/how-to-use-one-time-password-to-secure-ubuntu-server-ssh)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts @ [CodingMan.cc](https://codingman.cc)  
