@@ -19,6 +19,9 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 - [Git - 如何變更 commit author](https://codingman.cc/how-to-change-commit-author-in-git)
 - [OpenAI 如何幫助我的工程師工作](https://codingman.cc/how-openai-helps-my-work)
 - [Python - 如何安裝套件](https://codingman.cc/how-to-install-python-packages)
+
+
+test
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts @ [CodingMan.cc](https://codingman.cc)  
