@@ -14,11 +14,11 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Python - bisect 模組介紹](https://codingman.cc/python-bisect-intro)
+- [Python - 二元搜尋法](https://codingman.cc/python-binary-search)
+- [Python - List 介紹](https://codingman.cc/python-list-intro)
 - [工程師如何經營個人品牌](https://codingman.cc/how-engineer-builds-personal-branding)
 - [特斯拉 - 一萬公里心得](https://codingman.cc/tesla-10000km-review)
-- [Git - 如何變更 commit author](https://codingman.cc/how-to-change-commit-author-in-git)
-- [OpenAI 如何幫助我的工程師工作](https://codingman.cc/how-openai-helps-my-work)
-- [Python - 如何安裝套件](https://codingman.cc/how-to-install-python-packages)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts @ [CodingMan.cc](https://codingman.cc)  
