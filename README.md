@@ -14,11 +14,11 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [TimSort - Python 內建排序法](https://codingman.cc/timsort-python-built-in-sorting-algorithm)
 - [趨勢科技 AI contest 2023](https://codingman.cc/trend-micro-ai-contest-2023)
 - [Python - heapq 模組介紹](https://codingman.cc/python-heapq-intro)
 - [Python - bisect 模組介紹](https://codingman.cc/python-bisect-intro)
 - [Python - 二元搜尋法](https://codingman.cc/python-binary-search)
-- [Python - List 介紹](https://codingman.cc/python-list-intro)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts @ [CodingMan.cc](https://codingman.cc)  
