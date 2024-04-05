@@ -14,7 +14,7 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [單體應用程式 vs 微服務](https://codingman.cc/monolith-vs-microservices)
+- [雲端架構設計的四種範式 - 微服務、巨石、單體與無服務](https://codingman.cc/cloud-architecture-design-paradigms-microservices-monolith-giant-stone-serverless)
 - [Git - 常用指令](https://codingman.cc/git-common-commands)
 - [TimSort - Python 內建排序法](https://codingman.cc/timsort-python-built-in-sorting-algorithm)
 - [趨勢科技 AI contest 2023](https://codingman.cc/trend-micro-ai-contest-2023)
