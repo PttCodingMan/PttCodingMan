@@ -14,11 +14,11 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [雲端原生之路 - 重構](https://codingman.cc/cloud-native-refactor-application)
 - [如何管理團隊文件](https://codingman.cc/how-to-manage-team-files)
 - [雲端架構設計的四種範式 - 單體、微服務、巨石與無服務](https://codingman.cc/cloud-architecture-design-paradigms-microservices-monolith-giant-stone-serverless)
 - [Git - 常用指令](https://codingman.cc/git-common-commands)
 - [TimSort - Python 內建排序法](https://codingman.cc/timsort-python-built-in-sorting-algorithm)
-- [趨勢科技 AI contest 2023](https://codingman.cc/trend-micro-ai-contest-2023)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts @ [CodingMan.cc](https://codingman.cc)  
