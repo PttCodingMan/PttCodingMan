@@ -4,15 +4,13 @@
 
 </p>
 
-### Welcome
-Hi, I am CodingMan. I'm glad to see you here!
+## Welcome
+Hi, I am CodingMan, a man who loves coding with Python🐍. I'm glad to see you here!
 * The speaker of [COSCUP](https://coscup.org/2020/zh-TW/agenda/CFNNFA), [PyCon Taiwan](https://tw.pycon.org/2020/zh-hant/conference/talk/1124347947245371715/) and [PyData](https://pydata.org/taipei2020/program/talk-2/) in 2020.
 * The owner of [PyPtt](https://pyptt.cc) project with 600+ stars.
 * The owner of <a href="https://rock-mc.com/">磐石 Minecraft 伺服器</a>
 
-More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projects/)
-
-### Latest blog posts
+## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [雲端原生之路 - 重構](https://codingman.cc/cloud-native-refactor-application)
 - [如何管理團隊文件](https://codingman.cc/how-to-manage-team-files)
@@ -21,9 +19,9 @@ More side projects: [CodingMan.cc/SideProjects](https://codingman.cc/side-projec
 - [TimSort - Python 內建排序法](https://codingman.cc/timsort-python-built-in-sorting-algorithm)
 <!-- BLOG-POST-LIST:END -->
 
-More blog posts @ [CodingMan.cc](https://codingman.cc)  
+More blog posts & side projects @ [CodingMan.cc](https://codingman.cc)  
 
-### My links
+## My links
 
 <a href="https://codingman.cc"><img align="left" width="35px" src="https://i.imgur.com/kQaxXqy.jpg"></a>
 <a href="https://twitter.com/PttCodingMan"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/twitter.svg"></a>
