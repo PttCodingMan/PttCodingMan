@@ -12,11 +12,11 @@ Hi, I am CodingMan, a man who loves coding with Python🐍. I'm glad to see you 
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [軟體開發 - 什麼是巴士因子](https://codingman.cc/bus-factor)
 - [雲端原生之路 - 重構](https://codingman.cc/cloud-native-refactor-application)
 - [如何管理團隊文件](https://codingman.cc/how-to-manage-team-files)
 - [雲端架構設計的四種範式 - 單體、微服務、巨石與無服務](https://codingman.cc/cloud-architecture-design-paradigms-microservices-monolith-giant-stone-serverless)
 - [Git - 常用指令](https://codingman.cc/git-common-commands)
-- [TimSort - Python 內建排序法](https://codingman.cc/timsort-python-built-in-sorting-algorithm)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts & side projects @ [CodingMan.cc](https://codingman.cc)  
