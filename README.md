@@ -12,11 +12,11 @@ Hi, I am CodingMan, a man who loves coding with Python🐍. I'm glad to see you 
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [密碼學 - RSA 與 PKCS#1](https://codingman.cc/cryptography-rsa-and-pkcs1)
 - [如何架設 GitLab runner](https://codingman.cc/how-to-setup-gitlab-runner)
 - [Mac - 如何製作 Ubuntu 重灌隨身碟](https://codingman.cc/how-to-create-ubuntu-bootable-usb-on-mac)
 - [軟體開發 - 什麼是巴士因子](https://codingman.cc/bus-factor)
 - [雲端原生之路 - 重構](https://codingman.cc/cloud-native-refactor-application)
-- [如何管理團隊文件](https://codingman.cc/how-to-manage-team-files)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts & side projects @ [CodingMan.cc](https://codingman.cc)  
