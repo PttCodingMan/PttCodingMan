@@ -12,11 +12,11 @@ Hi, I am CodingMan, a man who loves coding with Python🐍. I'm glad to see you 
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Linux - HTTPS Proxy 設定導致的 curl 錯誤](https://codingman.cc/https-proxy-curl-error)
 - [PC/SC 函式庫簡介](https://codingman.cc/what-is-pc-sc-library)
 - [Python - 確認檔案是否存在](https://codingman.cc/python-check-if-file-exists)
 - [密碼學 - RSA 與 PKCS#1](https://codingman.cc/cryptography-rsa-and-pkcs1)
 - [如何架設 GitLab runner](https://codingman.cc/how-to-setup-gitlab-runner)
-- [密碼學 - ASN.1 DER Length Decoding](https://codingman.cc/asn1-der-length-decoding)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts & side projects @ [CodingMan.cc](https://codingman.cc)  
