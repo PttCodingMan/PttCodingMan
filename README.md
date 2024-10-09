@@ -12,11 +12,11 @@ Hi, I am CodingMan, a man who loves coding with Python🐍. I'm glad to see you 
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [各種作業系統的憑證安裝教學](https://codingman.cc/how-to-install-private-certificates)
 - [密碼學 - 一次性簽章](https://codingman.cc/one-time-signature)
 - [COSCUP 2020 ~ 2024 熱門技術趨勢觀察](https://codingman.cc/coscup-hot-topic-analysis-2020-2024)
 - [Linux - HTTPS Proxy 設定導致的 curl 錯誤](https://codingman.cc/https-proxy-curl-error)
 - [PC/SC 函式庫簡介](https://codingman.cc/what-is-pc-sc-library)
-- [Python - 確認檔案是否存在](https://codingman.cc/python-check-if-file-exists)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts & side projects @ [CodingMan.cc](https://codingman.cc)  
