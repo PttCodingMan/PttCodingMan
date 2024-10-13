@@ -12,11 +12,11 @@ Hi, I am CodingMan, a man who loves coding with Python🐍. I'm glad to see you 
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [密碼學 - 雜湊函數](https://codingman.cc/what-is-hash-function)
 - [公開金鑰基礎建設（PKI）：數位世界的安全基石](https://codingman.cc/what-is-pki)
 - [PKCS#11 - 物件與連線](https://codingman.cc/pkcs-11-session-and-object)
 - [各種作業系統的憑證安裝教學](https://codingman.cc/how-to-install-private-certificates)
 - [密碼學 - 一次性簽章](https://codingman.cc/one-time-signature)
-- [COSCUP 2020 ~ 2024 熱門技術趨勢觀察](https://codingman.cc/coscup-hot-topic-analysis-2020-2024)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts & side projects @ [CodingMan.cc](https://codingman.cc)  
