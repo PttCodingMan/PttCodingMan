@@ -12,11 +12,11 @@ Hi, I am CodingMan, a man who loves coding with Python🐍. I'm glad to see you 
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Padding - 加密中的填充機制](https://codingman.cc/padding)
 - [PowerSort - Python 內建排序法](https://codingman.cc/powersort-python-built-in-sorting-algorithm)
 - [密碼學 - AES](https://codingman.cc/cryptography-aes)
 - [什麼是隨機亂數](https://codingman.cc/random-number)
 - [密碼學 - RC4](https://codingman.cc/cryptography-rc4)
-- [密碼學 - 雜湊函數](https://codingman.cc/what-is-hash-function)
 <!-- BLOG-POST-LIST:END -->
 
 More blog posts & side projects @ [CodingMan.cc](https://codingman.cc)  
