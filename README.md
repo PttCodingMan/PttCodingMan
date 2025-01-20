@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/eN0NIpU.png" alt="drawing" width="70%"/>
+<img src="https://imgur.com/eN0NIpU.png" alt="drawing" width="60%"/>
 </p>
 
 ## Welcome to my GitHub profile! 👋
