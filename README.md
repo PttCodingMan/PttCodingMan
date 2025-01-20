@@ -23,9 +23,12 @@ Hi, I'm CodingMan - a Senior DevOps Engineer passionate about Python🐍 and clo
 💡 More articles & projects @ [CodingMan.cc](https://codingman.cc)  
 
 ## Let's Connect! 🌏
-<a href="https://codingman.cc"><img align="left" width="35px" src="https://i.imgur.com/kQaxXqy.jpg"></a>
-<a href="https://twitter.com/PttCodingMan"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/twitter.svg"></a>
-<a href="mailto:pttcodingman@gmail.com"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/gmail.svg"></a>
-<a href="https://t.me/PttCodingMan"><img align="left" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.6.0/icons/telegram.svg"></a>
-<a href="https://github.com/pttCodingMan.gpg"><img width="25px" style="display:inline; margin:12px" src="https://codingman.cc/images/gpg.png"></a>
-<a href="https://online-go.com/user/view/743363"><img align="left" width="37px" src="https://imgur.com/YgItTPw.png"></a>
+<div align="left">
+  
+[![Website](https://img.shields.io/badge/Website-codingman.cc-blue?style=flat-square&logo=firefox-browser)](https://codingman.cc)
+[![Twitter](https://img.shields.io/badge/Twitter-PttCodingMan-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/PttCodingMan)
+[![Email](https://img.shields.io/badge/Email-pttcodingman@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:pttcodingman@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-PttCodingMan-26A5E4?style=flat-square&logo=telegram)](https://t.me/PttCodingMan)
+[![GPG](https://img.shields.io/badge/GPG-Key-333333?style=flat-square&logo=gnu-privacy-guard)](https://github.com/pttCodingMan.gpg)
+
+</div>
