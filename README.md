@@ -14,11 +14,11 @@ Here's what keeps me busy:
 
 ## Latest Articles 📚
 <!-- BLOG-POST-LIST:START -->
+- [如何使用 Python 發佈文章到 X/Twitter](https://codingman.cc/python-publish-to-twitter)
 - [密碼學 - PKCS#7](https://codingman.cc/cryptography-pkcs-7)
 - [Docker 容器化技術及其原理](https://codingman.cc/docker-containerization-technology-and-its-principle)
 - [Padding - 加密中的填充機制](https://codingman.cc/padding)
 - [PowerSort - Python 內建排序法](https://codingman.cc/powersort-python-built-in-sorting-algorithm)
-- [密碼學 - AES](https://codingman.cc/cryptography-aes)
 <!-- BLOG-POST-LIST:END -->
 
 💡 More articles & projects @ [CodingMan.cc](https://codingman.cc)  
