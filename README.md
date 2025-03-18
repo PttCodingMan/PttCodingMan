@@ -4,12 +4,11 @@
 
 ## Welcome to my GitHub profile! 👋
 
-Hi, I'm CodingMan - a senior DevOps engineer passionate about Python🐍 and cloud infrastructure.  
+Hi, I'm CodingMan - a senior software engineer passionate about Python🐍 and DevOps♾️.  
 Here's what keeps me busy:
 
 * 🎤 Speaker at [COSCUP](https://coscup.org/2020/zh-TW/agenda/CFNNFA), [PyCon Taiwan](https://tw.pycon.org/2020/zh-hant/conference/talk/1124347947245371715/), and [PyData](https://pydata.org/taipei2020/program/talk-2/) (2020)
 * 🚀 Creator of [PyPtt](https://pyptt.cc) - An open-source Python library with 700+ stars
-* ⚡ Specializing in DevOps, and high-performance systems
 * 🎮 Owner of [Minecraft Rock Server](https://rock-mc.com/)
 
 ## Latest Articles 📚
