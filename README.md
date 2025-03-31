@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://imgur.com/eN0NIpU.png" alt="drawing" width="40%"/>
-</p>
-
 ## Welcome to my GitHub profile! 👋
 
 Hi, I'm CodingMan - a senior software engineer passionate about Python🐍 and DevOps♾️.  
