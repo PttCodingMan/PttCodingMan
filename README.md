@@ -9,11 +9,11 @@ Here's what keeps me busy:
 
 ## Latest Articles 📚
 <!-- BLOG-POST-LIST:START -->
+- [Python - 10 is 10 vs 500 is 500](https://codingman.cc/python-10-is-10-vs-500-is-500)
 - [SSH key - 從產生、設定到撤銷](https://codingman.cc/ssh-key-management)
 - [如何使用 Python 發佈文章到 X/Twitter](https://codingman.cc/python-publish-to-twitter)
 - [密碼學 - PKCS#7](https://codingman.cc/cryptography-pkcs-7)
 - [Docker 容器化技術及其原理](https://codingman.cc/docker-containerization-technology-and-its-principle)
-- [Padding - 加密中的填充機制](https://codingman.cc/padding)
 <!-- BLOG-POST-LIST:END -->
 
 💡 More articles & projects @ [CodingMan.cc](https://codingman.cc)  
