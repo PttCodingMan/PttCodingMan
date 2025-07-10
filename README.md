@@ -7,8 +7,6 @@ I'm a Senior Software Engineer from Taiwan 🇹🇼 with a deep passion for buil
 * 🎮 **Community Owner** of [Minecraft Rock Server](https://rock-mc.com/).
 * 💡 **More articles & projects** can be found on my website: [CodingMan.cc](https://codingman.cc).
 
-<br>
-
 ### ✨ My Star Projects
 <p align="center">
 <a href="https://github.com/PyPtt/PyPtt" target="_blank">
@@ -19,8 +17,6 @@ I'm a Senior Software Engineer from Taiwan 🇹🇼 with a deep passion for buil
 </a>
 </p>
 
-<br>
-
 ### 🛠️ My Tech Stack
 
 <p align="left">
@@ -29,8 +25,6 @@ I'm a Senior Software Engineer from Taiwan 🇹🇼 with a deep passion for buil
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker"/> </a>
   <a href="https://kubernetes.io" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/> </a>
 </p>
-
-<br>
 
 ### 🏆 GitHub Trophies
 
