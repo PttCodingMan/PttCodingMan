@@ -34,7 +34,7 @@ I'm a Senior Software Engineer from Taiwan 🇹🇼 with a deep passion for buil
 
 ### 📚 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- ['Meshtastic: 為什麼你不應該使用 ROUTER 模式'](https://codingman.cc/meshtastic-why-you-should-not-use-`ROUTER`-mode)
+- ['Meshtastic: 為什麼你不應該使用 ROUTER 模式'](https://codingman.cc/meshtastic-why-you-should-not-use-router-mode)
 - [iperf3 網路效能測試工具](https://codingman.cc/iperf3-network-performance-testing-tool)
 - [LDAP 簡介](https://codingman.cc/ldap-introduction)
 - [Python - dotenv 教學](https://codingman.cc/python-dotenv)
