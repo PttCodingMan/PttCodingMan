@@ -26,12 +26,6 @@ I'm a Senior Software Engineer from Taiwan 🇹🇼 with a deep passion for buil
   <a href="https://kubernetes.io" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/> </a>
 </p>
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pttCodingMan&theme=dracula&column=7" alt="CodingMan's Trophies"/>
-</p>
-
 ### 📚 Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [密碼學 - 橢圓曲線密碼學(ECC)](https://codingman.cc/cryptography-ecc)
