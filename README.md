@@ -34,11 +34,11 @@ I'm a Senior Software Engineer from Taiwan 🇹🇼 with a deep passion for buil
 
 ### 📚 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [密碼學 - 橢圓曲線密碼學(ECC)](https://codingman.cc/cryptography-ecc)
 - [PKCS#10 - 您的數位身分證申請書](https://codingman.cc/pkcs10-your-digital-identity-certificate-request)
 - [密碼學 - Diffie-Hellman 金鑰交換演算法](https://codingman.cc/diffie-hellman-key-exchange)
 - [Meshtastic - 為什麼你不應該使用 ROUTER 模式](https://codingman.cc/meshtastic-why-you-should-not-use-router-mode)
 - [密碼學 - 解析 PKIX 憑證驗證與 CRL](https://codingman.cc/pkix-certificate-validation-and-crl)
-- [密碼學 - SignedData 與 EnvelopedData](https://codingman.cc/cryptography-signeddata-envelopeddata)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌏 Let's Connect!
