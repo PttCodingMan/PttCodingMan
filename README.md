@@ -28,11 +28,11 @@ I'm a Senior Software Engineer from Taiwan 🇹🇼 with a deep passion for buil
 
 ### 📚 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [密碼學 - Wrap Algorithms](https://codingman.cc/cryptography-wrap-algorithms)
 - [密碼學 - PFX](https://codingman.cc/cryptography-pfx)
 - [PKCS#5 PBKDF：從密碼中提煉安全的金鑰](https://codingman.cc/pkcs5-pbkdf-from-password-to-secure-key)
 - [HMAC - 訊息完整性與身份驗證](https://codingman.cc/hmac)
 - [密碼學 - DSA](https://codingman.cc/cryptography-dsa)
-- [密碼學 - 橢圓曲線密碼學(ECC)](https://codingman.cc/cryptography-ecc)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌏 Let's Connect!
