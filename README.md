@@ -28,11 +28,11 @@ I'm a Senior Software Engineer from Taiwan 🇹🇼 with a deep passion for buil
 
 ### 📚 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [RADIUS - 網路存取的守門員](https://codingman.cc/radius)
 - [Kerberos - 網路身分驗證協定](https://codingman.cc/kerberos-authentication-protocol)
 - [密碼學 - X.509 Time Stamp](https://codingman.cc/cryptography-x509-time-stamp)
 - [密碼學 - PKCS#11 Key Agreement](https://codingman.cc/cryptography-pkcs11-key-agreement)
 - [密碼學 - Galois Counter Mode](https://codingman.cc/cryptography-galois-counter-mode)
-- [金鑰長度與暴力破解](https://codingman.cc/key-length-and-brute-force)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌏 Let's Connect!
