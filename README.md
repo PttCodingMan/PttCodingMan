@@ -5,7 +5,7 @@ My world revolves around Python, DevOps, and Meshtastic.
 
 * 🎤 **Speaker** at [COSCUP](https://coscup.org/2020/zh-TW/agenda/CFNNFA), [PyCon Taiwan](https://tw.pycon.org/2020/zh-hant/conference/talk/1124347947245371715/), and [PyData](https://pydata.org/taipei2020/program/talk-2/).
 * 🚀 **Creator** of [PyPtt](https://github.com/PyPtt/PyPtt) & [PTT MCP Server](https://github.com/PyPtt/ptt_mcp_server).
-* 🎮 **Community Owner** of [Minecraft Rock Server](https://rock-mc.com/).
+* 🎮 **Community Owner** of [Rock Minecraft Server](https://rock-mc.com/).
 * 💡 **More articles & projects** can be found on my website: [CodingMan.cc](https://codingman.cc).
 
 ### ✨ My Star Projects
