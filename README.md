@@ -29,11 +29,11 @@ My world revolves around Python, DevOps, and Meshtastic.
 
 ### 📚 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [DevOps - 如何使用 Python 合併 YAML](https://codingman.cc/devops-yaml-merge-tool)
 - [簡單好用的加密聊天工具](https://codingman.cc/simple-encrypted-chat-tools)
 - [PKCS#11 OTP - 硬體安全模組中的一次性密碼標準](https://codingman.cc/pkcs11-otp-standard)
 - [FFX 模式 - 保留格式的加密技術](https://codingman.cc/ffx-mode-encryption)
 - [RADIUS - 網路存取的守門員](https://codingman.cc/radius)
-- [Kerberos - 網路身分驗證協定](https://codingman.cc/kerberos-authentication-protocol)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌏 Let's Connect!
