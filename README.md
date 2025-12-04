@@ -9,15 +9,12 @@ My world revolves around Python, DevOps, and Meshtastic.
 * 💡 **More articles & projects** can be found on my website: [CodingMan.cc](https://codingman.cc).
 
 ### ✨ My Star Projects
-<p align="center">
-<a href="https://github.com/PyPtt/PyPtt" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyPtt&repo=PyPtt&theme=dracula" alt="PyPtt Repo Stats"/>
-</a>
-<a href="https://github.com/PyPtt/ptt_mcp_server" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PyPtt&repo=ptt_mcp_server&theme=dracula" alt="ptt_mcp_server Repo Stats"/>
-</a>
-</p>
 
+* [PyPtt](https://github.com/PyPtt/Pytt)
+  * The most popular PTT library.
+* [PTT MCP server](https://github.com/PyPtt/ptt_mcp_server)
+  * The MCP server of PTT.
+    
 ### 🛠️ My Tech Stack
 
 <p align="left">
