@@ -10,7 +10,7 @@ My world revolves around Python, DevOps, and Meshtastic.
 
 ### ✨ My Star Projects
 
-* [PyPtt](https://github.com/PyPtt/Pytt)
+* [PyPtt](https://github.com/PyPtt/PyPtt)
   * The most popular PTT library.
 * [PTT MCP server](https://github.com/PyPtt/ptt_mcp_server)
   * The MCP server of PTT.
