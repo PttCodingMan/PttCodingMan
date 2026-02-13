@@ -29,8 +29,8 @@ My world revolves around Python, DevOps, and Meshtastic.
 - [如何改善網路品質 - X/推特 影片](https://codingman.cc/how-to-improve-network-quality-x-twitter-video)
 - [DevOps - 如何使用 Python 合併 YAML](https://codingman.cc/devops-yaml-merge-tool)
 - [簡單好用的加密聊天工具](https://codingman.cc/simple-encrypted-chat-tools)
+- [面試心得 - 台積電](https://codingman.cc/interview-with-tsmc)
 - [PKCS#11 OTP - 硬體安全模組中的一次性密碼標準](https://codingman.cc/pkcs11-otp-standard)
-- [FFX 模式 - 保留格式的加密技術](https://codingman.cc/ffx-mode-encryption)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌏 Let's Connect!
