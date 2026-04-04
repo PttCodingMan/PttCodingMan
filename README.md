@@ -26,11 +26,11 @@ My world revolves around Python, DevOps, and Meshtastic.
 
 ### 📚 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Python 開發者的「可編輯模式」神技 - pip install -e](https://codingman.cc/pip-install-editable-mode)
 - [競技對戰評分系統：從 Elo 及其進化版演算法深度解析](https://codingman.cc/competitive-rating-systems-elo-to-trueskill)
 - [威秀影城場次規劃神器：vscinemas-skill 介紹](https://codingman.cc/vscinemas-skill)
 - [原價屋組電腦的神助手：coolpc-skill 介紹](https://codingman.cc/coolpc-skill)
 - [用 AI 幫你配對台積電職缺：tsmc-resume-matcher 介紹](https://codingman.cc/tsmc-resume-matcher)
-- [Python：手把手教你 async 與 await](https://codingman.cc/python-async-await-intro)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌏 Let's Connect!
