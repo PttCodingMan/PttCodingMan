@@ -34,20 +34,4 @@ My world revolves around Python, DevOps, and Meshtastic.
 <!-- BLOG-POST-LIST:END -->
 
 ### 🌏 Let's Connect!
-<p align="center">
-  <a href="https://www.linkedin.com/in/codingman/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://codingman.cc" target="_blank">
-    <img src="https://img.shields.io/badge/Website-codingman.cc-blue?style=for-the-badge&logo=firefox-browser">
-  </a>
-  <a href="https://twitter.com/PttCodingMan" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-PttCodingMan-1DA1F2?style=for-the-badge&logo=twitter">
-  </a>
-  <a href="mailto:pttcodingman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pttcodingman@gmail.com-D14836?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://t.me/PttCodingMan" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-PttCodingMan-26A5E4?style=for-the-badge&logo=telegram">
-  </a>
-</p>
+ * https://codingman.cc/about/
