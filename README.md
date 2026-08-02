@@ -3,7 +3,7 @@ I'm a Senior Software Engineer from Taiwan 🇹🇼 with a deep passion for buil
 scalable systems and developer-friendly tools.
 My world revolves around Python, DevOps, and Meshtastic.
 
-### 📚 Latest Articles
+### Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [PyPtt - 如何利用 NAWS 動態調整視窗高度提升資料獲取效率](https://codingman.cc/pyptt-dynamic-window-efficiency)
 - [Python - is vs == 的差異詳解](https://codingman.cc/python-is-vs-equals)
