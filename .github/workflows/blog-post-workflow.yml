@@ -1,19 +1,32 @@
 name: update-blog-recent-articles
+
+# 這個 workflow 刻意不使用 schedule。GitHub 會把「repo 連續 60 天沒有活動」的
+# 排程 workflow 自動停用（state: disabled_inactivity），而 github-actions[bot]
+# 自己推的 commit 不算活動 —— 2026-07-30 就是這樣被停掉的，之後新文章都沒更新到。
+# 改由部落格 repo 部署完成後發 repository_dispatch 觸發，沒有 schedule 就不會再被停用。
 on:
-  schedule:
-    - cron: '22 22 * * *'
+  repository_dispatch:
+    types: [blog-updated]
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-blog-recent-articles
+  cancel-in-progress: false
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with recent blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v3
+      - uses: actions/checkout@v7
+      - name: Set up Python
+        uses: actions/setup-python@v7
         with:
-          python-version: "3.11"
+          python-version: "3.12"
+          cache: 'pip'
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -21,6 +34,13 @@ jobs:
       - name: Update profile
         run: |
           python src/update.py
-      - uses: EndBug/add-and-commit@v9
-        with:
-          default_author: github_actions
+      - name: Commit and push
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "README.md unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Commit from GitHub Actions (update-blog-recent-articles)" -- README.md
+          git push
