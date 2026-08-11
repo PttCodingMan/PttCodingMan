@@ -23,6 +23,3 @@ My world revolves around Python, DevOps, and Meshtastic.
 | [uPtt](https://uptt.cc/) | Open source PTT Messenger. |
 | [JustWiki](https://github.com/PttCodingMan/JustWiki) | Lightweight self-hosted wiki for small teams — Markdown-first, single SQLite file, no external dependencies. |
 | [TriangularNim](https://codingman.cc/TriangularNim/) | A Python implementation of the classic combinatorial game "Triangular Nim", with an AI opponent that computes the optimal move. |
-
-### Let's Connect!
-* https://codingman.cc/about/
