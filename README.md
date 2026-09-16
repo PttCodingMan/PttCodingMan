@@ -1,5 +1,5 @@
 ### About Me
-I'm a Senior Software Engineer from Taiwan 🇹🇼 with a deep passion for building
+I'm a Software Engineer from Taiwan 🇹🇼 with a deep passion for building
 scalable systems and developer-friendly tools.
 My world revolves around Python, DevOps, and Meshtastic.
 
