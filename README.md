@@ -5,11 +5,11 @@ My world revolves around Python, DevOps, and Meshtastic.
 
 ### Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [如何讓 Agent 玩仙劍奇俠傳](https://codingman.cc/pal-agent-setup)
+- [仙劍奇俠傳 DOS 版 AI 攻略](https://codingman.cc/pal-dos-walkthrough)
 - [〈獨白〉](https://codingman.cc/monologue)
 - [COSCUP 2020 ~ 2026 七年議程資料分析](https://codingman.cc/coscup-hot-topic-analysis-2020-2026)
 - [讓 LLM 直接操作 PTT — PTT MCP Server](https://codingman.cc/ptt-mcp-server)
-- [3D 列印新手容易忽略的兩件事](https://codingman.cc/two-things-3d-printing-beginners-miss)
-- [PyPtt - 如何利用 NAWS 動態調整視窗高度提升資料獲取效率](https://codingman.cc/pyptt-dynamic-window-efficiency)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Projects
