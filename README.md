@@ -5,11 +5,11 @@ My world revolves around Python, DevOps, and Meshtastic.
 
 ### Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [收到，繼續](https://codingman.cc/received-continue)
 - [如何利用 Cloudflare WARP 解決 GitHub 下載太慢的問題](https://codingman.cc/how-to-use-cloudflare-warp-for-github)
 - [如何讓 Agent 玩仙劍奇俠傳](https://codingman.cc/pal-agent-setup)
 - [仙劍奇俠傳 DOS 版 AI 攻略](https://codingman.cc/pal-dos-walkthrough)
 - [〈獨白〉](https://codingman.cc/monologue)
-- [COSCUP 2020 ~ 2026 七年議程資料分析](https://codingman.cc/coscup-hot-topic-analysis-2020-2026)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Projects
